@@ -1,5 +1,5 @@
 export const profile = {
-  name: 'Aneeq Haider',
+  name: 'Muhammad Aneeq Haider',
   role: 'Backend Engineer',
   coreStack: ['Python', 'Django', 'DRF', 'PostgreSQL', 'Celery', 'AWS'],
 
@@ -17,7 +17,7 @@ export const profile = {
 
   photo: '/images/aneeq.jpeg',
   photoFallback: '/images/aneeq.jpeg',
-  photoAlt: 'Aneeq Haider',
+  photoAlt: 'Muhammad Aneeq Haider',
 }
 
 export const work = [

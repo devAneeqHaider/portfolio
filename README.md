@@ -1,6 +1,6 @@
-# Aneeq Haider Portfolio
+# Muhammad Aneeq Haider Portfolio
 
-Personal portfolio for Aneeq Haider, a backend engineer working with Python,
+Personal portfolio for Muhammad Aneeq Haider, a backend engineer working with Python,
 Django, REST APIs, Celery, PostgreSQL, and cloud infrastructure.
 
 **Live site:** [devaneeqhaider.online](https://devaneeqhaider.online)
